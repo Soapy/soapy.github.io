@@ -1,0 +1,8 @@
+#portfolio .portfolio-item{
+	height: 450px;
+}
+
+.image-resize {
+	max-height:100%;
+}
+
